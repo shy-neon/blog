@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
+baseurl = "https://shy-neon.github.io"
 title = "Essegi Rent and Services"
 theme = "vex-hugo"
 # post excert
