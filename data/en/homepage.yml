@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Noleggio e-bike, auto e scooter"
-  content: "Offriamo un'ampia selezione di veicoli adatti ad ogni circostanza. Visita il **catalogo** e acquista il tuo ticket comodamente da casa. E non dimenticare di iscriverti alla nostra **newsletter** per accedere a promozioni e novità"
+  content: "Offriamo un'ampia selezione di veicoli adatti ad ogni circostanza. Visita il **catalogo** e acquista il tuo ticket comodamente da casa. E non dimenticare di iscriverti alla nostra **newsletter** per non perdere nessuna promozione e novità"
   image: "images/mainBike.png"
   button:
     enable: true
@@ -15,7 +15,7 @@ promo:
   image: "images/keys.png"
   title: "Soluzioni studiate a partire dalle tue esigenze"
   content:
-    "Che sia un'**auto** per una gita fuoriporta, una **e-bike** per una comoda pesseggiata o un **monopattino** per non arrivare mai in ritardo, **Essegi** ha il mezzo che fa per te: freschi, efficienti e passo con i tempi, proprio come noi! Puoi acquistare un **ticket** in negozio o sul sito, comodamente da casa e in anticipo, per fare ancora più in fretta 💨"
+    "Che sia un'**auto** per una gita fuoriporta, una **e-bike** per una comoda passeggiata o un **monopattino** per non arrivare mai in ritardo, **Essegi** ha il mezzo che fa per te: freschi, efficienti e passo con i tempi, proprio come noi! Puoi acquistare un **ticket** in negozio o sul sito, comodamente da casa e in anticipo, per fare ancora più in fretta 💨"
 
 
 ############################# Feature ############################
