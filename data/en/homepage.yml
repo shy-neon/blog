@@ -87,7 +87,7 @@ about_product:
 ################################## Subscription ###################
 subscription:
   enable: true
-  bg_image: "images/call-to-action.jpg"
+  bg_image: "images/call-to-action.png"
   title: "Rimani aggiornato su offerte e novità"
   content: "Lascia la tua e-mail e iscriviti alla newsletter per accedere ad offerte riservate e per rimanere aggiornato su tutte le novità di Essegi"
   placeholder: " Lascia la tua e-mail"
