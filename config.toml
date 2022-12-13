@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://shy-neon.github.io"
+baseurl = "https://www.essegirent.com"
 title = "Essegi Rent and Services"
 theme = "vex-hugo"
 # post excert
